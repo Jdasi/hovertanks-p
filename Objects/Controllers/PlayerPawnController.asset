@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ceb4b04c79982f44b43f576c1833180, type: 3}
+  m_Name: PlayerPawnController
+  m_EditorClassIdentifier: 
+  _isPlayer: 1
+  _floorMask:
+    serializedVersion: 2
+    m_Bits: 8192
+  _crosshairUIPrefab: {fileID: 968044747594868118, guid: 19038aa274c3b234bbbfd29b93823274,
+    type: 3}
+  _aimSpeed: 25
+  _delayBeforeLerp: 0
+  _lerpBackSpeed: 6
+  _distBeforeLerpHide: 1.3
+  _aimFactorCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0.02287291
+      outSlope: 0.02287291
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.12377788
+    - serializedVersion: 3
+      time: 0.21206665
+      value: 0.037670165
+      inSlope: 0.35790896
+      outSlope: 0.35790896
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.24772203
+      outWeight: 0.34489664
+    - serializedVersion: 3
+      time: 0.5
+      value: 1
+      inSlope: 8.4858465
+      outSlope: 8.4858465
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.13613348
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _crosshairBounds:
+    m_Center: {x: 0, y: 0, z: 0.5}
+    m_Extent: {x: 18, y: 0, z: 13.5}

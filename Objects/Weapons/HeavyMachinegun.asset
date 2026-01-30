@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 357375be84422a44fb3450ef1da0588e, type: 3}
+  m_Name: HeavyMachinegun
+  m_EditorClassIdentifier: 
+  _maxCharges: 8
+  _delayBetweenProcs: 0.15
+  _spoolUpTime: 0
+  _spoolUpAudio: {fileID: 0}
+  _spoolUpEffectPrefab: {fileID: 0}
+  _forceActivateAfterSpool: 0
+  _spoolDownTime: 0
+  _spoolDownAudio: {fileID: 0}
+  _spoolDownEffectPrefab: {fileID: 0}
+  _modSlot1: {fileID: 0}
+  _modSlot2: {fileID: 0}
+  _modSlot3: {fileID: 0}
+  _weaponType: 1
+  _timeToReload: 2
+  _screenShake: 0
+  _blowback: 0.1
+  _muzzleFlashPrefab: {fileID: 1743301284569550, guid: cc32d781f91bacf42aea72a6f10a7a28,
+    type: 3}
+  _shotAudio: {fileID: 11400000, guid: 96af91871a55bc9468849f1be7d3b359, type: 2}
+  _magEjectPrefab: {fileID: 6849335008272793388, guid: 7e1d376a59a320c43b06cd0dc43080c6,
+    type: 3}
+  _magEjectParticlePrefab: {fileID: 1900860355730117004, guid: 0ab93de207f464f4cad6f676498a36f7,
+    type: 3}
+  _reloadAudio: {fileID: 11400000, guid: 07f90765b53abf44bb4d947a538d2ce0, type: 2}
+  _magEjectAudio: {fileID: 11400000, guid: ecb8b6a2661494c44a638b7eb62c6848, type: 2}
+  _selfHeatDamage: 0.04
+  _heatTimeBeforeCool: 0.55
+  _projectileClass: 2
+  _spoolEachShot: 0
+  _stationarySpread: 0.06
+  _movingSpread: 0.08

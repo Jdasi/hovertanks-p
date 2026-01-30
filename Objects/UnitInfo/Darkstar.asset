@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84b3caa82211e92489b3e2e8c116d5fe, type: 3}
+  m_Name: Darkstar
+  m_EditorClassIdentifier: 
+  Pawns:
+  - {fileID: 11400000, guid: 686044454bdc07d4d9f0e4cffdffc35e, type: 2}
+  - {fileID: 11400000, guid: c2b54f51582820248ac2dda42ae825e9, type: 2}
+  - {fileID: 11400000, guid: 462c36739227f7945a300e344775d948, type: 2}
+  - {fileID: 11400000, guid: db35dcc50f305804780f357313e0fe79, type: 2}
+  - {fileID: 11400000, guid: 32e07ed7498fab247b8d397f4fdf02f6, type: 2}
+  - {fileID: 11400000, guid: 0d9f8644acfae954fbc3698f05d5e96d, type: 2}
+  - {fileID: 11400000, guid: 6c7d86dfeff558d47bb715a40693fb81, type: 2}

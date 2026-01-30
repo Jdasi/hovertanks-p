@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b9326c67374347458840a17e295fb69, type: 3}
+  m_Name: ProximityMine
+  m_EditorClassIdentifier: 
+  _maxCharges: 1
+  _delayBetweenProcs: 1.5
+  _spoolUpTime: 0
+  _spoolUpAudio: {fileID: 0}
+  _spoolUpEffectPrefab: {fileID: 0}
+  _forceActivateAfterSpool: 0
+  _spoolDownTime: 0
+  _spoolDownAudio: {fileID: 0}
+  _spoolDownEffectPrefab: {fileID: 0}
+  _moduleClass: 11
+  _startingCharges: 1
+  _preventRechargeInUse: 0
+  _timeToRecharge: 3
+  _procAudio: {fileID: 11400000, guid: 859f948c8df7c444e996bdef9c155ef2, type: 2}
+  _procEffectPrefab: {fileID: 0}
+  _blowback: 0
+  _physicalPrefab: {fileID: 0}
+  _mountPoint: 0
+  _propClass: 1
+  _forwardOffset: 0

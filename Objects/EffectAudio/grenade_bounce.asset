@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bdc4584c9c00b446bdc9927292d678e, type: 3}
+  m_Name: grenade_bounce
+  m_EditorClassIdentifier: 
+  Clip: {fileID: 8300000, guid: eb5b4b48f943e0547b15904a60706045, type: 3}
+  Volume: 1
+  VolumeVariance: 0
+  Pitch: 1.3
+  PitchVariance: 0.05
+  PlayOnAwake: 1

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7508f5fc942ba174ea7ce2e91d4f4acd, type: 3}
+  m_Name: RacingMode
+  m_EditorClassIdentifier: 
+  _augmentClass: 10
+  _forwardSpeedFactor: 1.2
+  _strafeSpeedFactor: 0.85
+  _reverseSpeedFactor: 0.85

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6649dd37979d1e64a9421f2e70b59d5a, type: 3}
+  m_Name: MRestorer
+  m_EditorClassIdentifier: 
+  _maxCharges: 1
+  _delayBetweenProcs: 0.5
+  _spoolUpTime: 0
+  _spoolUpAudio: {fileID: 11400000, guid: 6657703bba1363245be9762d0e6405e0, type: 2}
+  _spoolUpEffectPrefab: {fileID: 1329845292236604, guid: ecbc7c7d7a19c284498dba1dcd0b98e8,
+    type: 3}
+  _forceActivateAfterSpool: 1
+  _spoolDownTime: 0
+  _spoolDownAudio: {fileID: 0}
+  _spoolDownEffectPrefab: {fileID: 0}
+  _moduleClass: 9
+  _startingCharges: 1
+  _preventRechargeInUse: 1
+  _timeToRecharge: 2
+  _procAudio: {fileID: 11400000, guid: d29fecc60fb0f7f46814eb11f1e7e425, type: 2}
+  _procEffectPrefab: {fileID: 1743301284569550, guid: 90faeb8dc5afd3244b84bba3b0689f22,
+    type: 3}
+  _blowback: 0.3
+  _physicalPrefab: {fileID: 548711875617934781, guid: 3ca7f3d7a7d2ccb4b98c6ab972ac0495,
+    type: 3}
+  _mountPoint: 1
+  _projectileClass: 26
+  _spread: 0

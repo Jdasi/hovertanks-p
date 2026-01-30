@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 357375be84422a44fb3450ef1da0588e, type: 3}
+  m_Name: ArcLance
+  m_EditorClassIdentifier: 
+  _maxCharges: 2
+  _delayBetweenProcs: 1.5
+  _spoolUpTime: 0.41
+  _spoolUpAudio: {fileID: 11400000, guid: 4198bfea894776448a1748eccd4e12a9, type: 2}
+  _spoolUpEffectPrefab: {fileID: 6140585763447951302, guid: 8ecfed151e1bcbc4b940c5178d7dbb45,
+    type: 3}
+  _forceActivateAfterSpool: 1
+  _spoolDownTime: 0
+  _spoolDownAudio: {fileID: 0}
+  _spoolDownEffectPrefab: {fileID: 0}
+  _modSlot1: {fileID: 0}
+  _modSlot2: {fileID: 0}
+  _modSlot3: {fileID: 0}
+  _weaponClass: 1
+  _weaponType: 1
+  _timeToReload: 2
+  _screenShake: 0.05
+  _blowback: 2.2
+  _muzzleFlashPrefab: {fileID: 1743301284569550, guid: 3c7656df2e599e14986cc4b1dcb15f85,
+    type: 3}
+  _shotAudio: {fileID: 11400000, guid: bd14d4b5fc73421438bab6d716dd8ee2, type: 2}
+  _magEjectPrefab: {fileID: 6849335008272793388, guid: 7e1d376a59a320c43b06cd0dc43080c6,
+    type: 3}
+  _magEjectParticlePrefab: {fileID: 1900860355730117004, guid: 0ab93de207f464f4cad6f676498a36f7,
+    type: 3}
+  _reloadAudio: {fileID: 11400000, guid: 07f90765b53abf44bb4d947a538d2ce0, type: 2}
+  _magEjectAudio: {fileID: 11400000, guid: ecb8b6a2661494c44a638b7eb62c6848, type: 2}
+  _selfHeatDamage: 0.3
+  _heatTimeBeforeCool: 1.25
+  _projectileClass: 18
+  _spoolEachShot: 1
+  _stationarySpread: 0.02
+  _movingSpread: 0.04

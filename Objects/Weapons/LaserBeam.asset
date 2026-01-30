@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd4521a129d4a1f49bc9b2fa779afb17, type: 3}
+  m_Name: LaserBeam
+  m_EditorClassIdentifier: 
+  _maxCharges: 40
+  _delayBetweenProcs: 0
+  _spoolUpTime: 0.65
+  _spoolUpAudio: {fileID: 11400000, guid: 2bd5a262d3d70d4479d37ff7934c0622, type: 2}
+  _spoolUpEffectPrefab: {fileID: 1329845292236604, guid: efb76be4844a3f44db0bb188fb38f950,
+    type: 3}
+  _forceActivateAfterSpool: 0
+  _spoolDownTime: 0.45
+  _spoolDownAudio: {fileID: 11400000, guid: 39556e79e8c20ab4bb59e128932f92a9, type: 2}
+  _spoolDownEffectPrefab: {fileID: 0}
+  _weaponClass: 12
+  _weaponType: 3
+  _timeToReload: 2.2
+  _screenShake: 0.075
+  _blowback: 1
+  _muzzleFlashPrefab: {fileID: 1743301284569550, guid: aa145a48643212244ad3bd5c24012fff,
+    type: 3}
+  _shotAudio: {fileID: 11400000, guid: 98feb78992f71414487b3555ee37ffd1, type: 2}
+  _magEjectPrefab: {fileID: 6849335008272793388, guid: 7e1d376a59a320c43b06cd0dc43080c6,
+    type: 3}
+  _magEjectParticlePrefab: {fileID: 1900860355730117004, guid: 0ab93de207f464f4cad6f676498a36f7,
+    type: 3}
+  _reloadAudio: {fileID: 11400000, guid: 07f90765b53abf44bb4d947a538d2ce0, type: 2}
+  _magEjectAudio: {fileID: 11400000, guid: ecb8b6a2661494c44a638b7eb62c6848, type: 2}
+  _selfHeatDamage: 0.3
+  _heatTimeBeforeCool: 0.55
+  _chargeConsumeInterval: 0.06
+  _continuousBlowback: 300
+  _effectPrefab: {fileID: 178599336763060342, guid: 49eff9e5554007840b4aff955db5f256,
+    type: 3}

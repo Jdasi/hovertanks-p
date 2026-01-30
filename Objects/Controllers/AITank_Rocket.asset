@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43c76b676f7d83d4b9ffeda40d341750, type: 3}
+  m_Name: AITank_Rocket
+  m_EditorClassIdentifier: 
+  _isPlayer: 0
+  _shootDelayMin: 2
+  _shootDelayMax: 5
+  _minBurstTime: 0
+  _maxBurstTime: 0
+  _stopShootAfterProc: 1
+  _forceReloadThreshold: 0
+  _maxShootDist: 40
+  _obstacleLayer:
+    serializedVersion: 2
+    m_Bits: 4608
+  _advanceDist: 15
+  _retreatDist: 8
+  _aggressionSkill: 45
+  _leadTargetSkill: 0
+  _projectileDodgeSkill: 1
+  _usesTurbo: 0

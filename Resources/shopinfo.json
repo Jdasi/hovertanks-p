@@ -1,0 +1,437 @@
+{
+	"Weapons":
+	[
+		{
+			"Class": "ArcLance",
+			"Description": "",
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "ATCannon",
+			"DisplayName": "AT-Cannon",
+			"Description": "",
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "Bolter",
+			"Description": "",
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "Chaingun",
+			"Description": "",
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "CinderCannon",
+			"Description": "",
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "DualCannon",
+			"Description": "",
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "ElectricOrb",
+			"Description": "",
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "GaussCannon",
+			"Description": "",
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "GrenadeLauncher",
+			"Description": "",
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "HECannon",
+			"DisplayName": "HE-Cannon",
+			"Description": "",
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "HeavyMachinegun",
+			"Description": "",
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "LaserBeam",
+			"Description": "",
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "LightMachinegun",
+			"Description": "",
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "LRCannon",
+			"DisplayName": "LR-Cannon",
+			"Description": "",
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "MicroMissile",
+			"Description": "",
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "PlasmaBolt",
+			"Description": "",
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "PlasmaOrb",
+			"Description": "",
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "Pulsar",
+			"Description": "",
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "Riveter",
+			"Description": "",
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "RMCannon",
+			"DisplayName": "RM-Cannon",
+			"Description": "",
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "RocketLauncher",
+			"Description": "",
+			"Upgrades": ["", "", ""]
+		}
+	],
+	
+	"Modules":
+	[
+		{
+			"Class": "MissilePod",
+			"Description": "Launch micro missiles that seek enemies",
+			"Credits": 1250,
+			"Reactor": 2,
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "AirburstPod",
+			"Description": "Launch a micro rocket that bursts when near an enemy",
+			"Credits": 1500,
+			"Reactor": 2,
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "MGauss",
+			"DisplayName": "M-Gauss",
+			"Description": "Launch a micro force projectile at high speed",
+			"Credits": 1750,
+			"Reactor": 2,
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "RocketPod",
+			"Description": "Launch a micro rocket that explodes in a small radius",
+			"Credits": 2000,
+			"Reactor": 2,
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "MCannon",
+			"DisplayName": "M-Cannon",
+			"Description": "Fire micro ballistic projectiles",
+			"Credits": 750,
+			"Reactor": 2,
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "MScorcher",
+			"DisplayName": "M-Scorcher",
+			"Description": "Fire micro flaming projectiles that increase target heat",
+			"Credits": 1750,
+			"Reactor": 2,
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "MPulsar",
+			"DisplayName": "M-Pulsar",
+			"Description": "Fire micro plasma projectiles",
+			"Credits": 1750,
+			"Reactor": 2,
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "ForceWave",
+			"Description": "Launch a wave of force that creates a large shockwave",
+			"Credits": 1250,
+			"Reactor": 2,
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "MRestorer",
+			"DisplayName": "M-Restorer",
+			"Description": "Fire a bouncing micro restorative projectile",
+			"Credits": 1000,
+			"Reactor": 2,
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "BlastWave",
+			"Description": "Launch a wave of fire that increases target heat",
+			"Credits": 2500,
+			"Reactor": 1,
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "ProximityMine",
+			"Description": "Deploy a mine that explodes on target proximity",
+			"Credits": 1250,
+			"Reactor": 1,
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "XBomb",
+			"DisplayName": "X-Bomb",
+			"Description": "Deploy a bomb that explodes after a delay in an X-pattern",
+			"Credits": 1750,
+			"Reactor": 1,
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "BlitzerBeacon",
+			"Description": "Deploy a beacon that calls down blitzer rounds after a delay",
+			"Credits": 2250,
+			"Reactor": 1,
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "DeployableShield",
+			"Description": "Deploy a shield that blocks projectiles",
+			"Credits": 1500,
+			"Reactor": 1,
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "Flares",
+			"Description": "Deploy flares that distract seeking projectiles",
+			"Credits": 750,
+			"Reactor": 1,
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "EMP",
+			"Description": "Emit a pulse that disrupts nearby targets for a short time",
+			"Credits": 2000,
+			"Reactor": 1,
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "HealingNova",
+			"Description": "Emit a pulse that heals nearby targets",
+			"Credits": 1500,
+			"Reactor": 1,
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "Vent",
+			"Description": "Emit a pulse that reduces your heat and damages nearby targets",
+			"Credits": 1500,
+			"Reactor": 1,
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "Dash",
+			"Description": "Short burst of speed in the direction of movement",
+			"Credits": 1500,
+			"Reactor": 1,
+			"Upgrades": ["", "", ""]
+		},
+
+		{
+			"Class": "Phase",
+			"Description": "Short range teleport in the direction of movement",
+			"Credits": 2000,
+			"Reactor": 1,
+			"Upgrades": ["", "", ""]
+		}
+	],
+
+	"Augments":
+	[
+		{
+			"Class": "AutoLoader",
+			"Description": "Decrease weapon reload time",
+			"Credits": 1250,
+			"Reactor": 1
+		},
+
+		{
+			"Class": "ResourcePack",
+			"Description": "Decrease module recharge time",
+			"Credits": 1000,
+			"Reactor": 1
+		},
+
+		{
+			"Class": "StealthChip",
+			"Description": "Can't be targeted by seeking projectiles",
+			"Credits": 750,
+			"Reactor": 1
+		},
+
+		{
+			"Class": "EssenceExtractor",
+			"Description": "Increase direct healing received",
+			"Credits": 750,
+			"Reactor": 1
+		},
+
+		{
+			"Class": "GyroUnlocker",
+			"Description": "Increase handling and turn speed",
+			"Credits": 1500,
+			"Reactor": 1
+		},
+
+		{
+			"Class": "HeavyFrame",
+			"Description": "Increase health but decrease move speed",
+			"Credits": 1250,
+			"Reactor": 1
+		},
+
+		{
+			"Class": "ForceBumper",
+			"Description": "Deal additional ramming damage and knockback",
+			"Credits": 1000,
+			"Reactor": 1
+		},
+
+		{
+			"Class": "LightFrame",
+			"Description": "Decrease health but increase move speed",
+			"Credits": 1250,
+			"Reactor": 1
+		},
+
+		{
+			"Class": "RacingMode",
+			"Description": "Increase forward speed but decrease strafe and reverse speeds",
+			"Credits": 1000,
+			"Reactor": 1
+		},
+
+		{
+			"Class": "Stabilizers",
+			"Description": "Reduce knockback received",
+			"Credits": 750,
+			"Reactor": 1
+		},
+
+		{
+			"Class": "WaveDeflector",
+			"Description": "Reduce damage and healing received from area effects",
+			"Credits": 1500,
+			"Reactor": 1
+		},
+
+		{
+			"Class": "ThermalRegulator",
+			"Description": "Dissipate heat more quickly",
+			"Credits": 1500,
+			"Reactor": 1
+		},
+
+		{
+			"Class": "ShockDampeners",
+			"Description": "Reduce ramming damage received",
+			"Credits": 1000,
+			"Reactor": 1
+		},
+
+		{
+			"Class": "SurgeProtection",
+			"Description": "Immunity to disrupt effects",
+			"Credits": 1500,
+			"Reactor": 1
+		},
+
+		{
+			"Class": "VerticalThrusters",
+			"Description": "Maintain a minimum altitude while boosting",
+			"Credits": 1500,
+			"Reactor": 1
+		},
+
+		{
+			"Class": "FirmwareUpgrade",
+			"Description": "Unlock simultaneous use of weapon and modules",
+			"Credits": 2000,
+			"Reactor": 1
+		},
+
+		{
+			"Class": "AuxiliaryPower",
+			"Description": "Gain 2 reactor points",
+			"Credits": 2000
+		},
+
+		{
+			"Class": "PersonalForceField",
+			"Description": "Gain a protective regenerating barrier but decrease max health",
+			"Credits": 2250,
+			"Reactor": 1
+		},
+
+		{
+			"Class": "AeonShard",
+			"Description": "Upon taking fatal damage, heal to full instead and consume this augment",
+			"Credits": 2500
+		}
+	]
+}

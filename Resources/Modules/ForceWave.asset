@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6649dd37979d1e64a9421f2e70b59d5a, type: 3}
+  m_Name: ForceWave
+  m_EditorClassIdentifier: 
+  _maxCharges: 1
+  _delayBetweenProcs: 1.5
+  _screenShake: 0.03
+  _spoolUpTime: 0
+  _spoolUpAudio: {fileID: 0}
+  _spoolUpEffectPrefab: {fileID: 0}
+  _forceActivateAfterSpool: 0
+  _spoolDownTime: 0
+  _spoolDownAudio: {fileID: 0}
+  _spoolDownEffectPrefab: {fileID: 0}
+  _modSlot1: {fileID: 0}
+  _modSlot2: {fileID: 0}
+  _modSlot3: {fileID: 0}
+  _moduleClass: 8
+  _preventRechargeInUse: 1
+  _timeToRecharge: 3
+  _procAudio: {fileID: 11400000, guid: 8e524f95bb194bb428ebae38b93907bc, type: 2}
+  _procEffectPrefab: {fileID: 1743301284569550, guid: b0017a4b1e42ed34a8856609f33e80cc,
+    type: 3}
+  _blowback: 4
+  _physicalPrefab: {fileID: 548711875617934781, guid: cd72d89eee1a74e449288db9e2828136,
+    type: 3}
+  _mountPoint: 1
+  _projectileClass: 25
+  _spread: 0

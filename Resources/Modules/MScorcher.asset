@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6649dd37979d1e64a9421f2e70b59d5a, type: 3}
+  m_Name: MScorcher
+  m_EditorClassIdentifier: 
+  _maxCharges: 2
+  _delayBetweenProcs: 0.9
+  _spoolUpTime: 0
+  _spoolUpAudio: {fileID: 0}
+  _spoolUpEffectPrefab: {fileID: 0}
+  _forceActivateAfterSpool: 0
+  _spoolDownTime: 0
+  _spoolDownAudio: {fileID: 0}
+  _spoolDownEffectPrefab: {fileID: 0}
+  _moduleClass: 6
+  _startingCharges: 2
+  _preventRechargeInUse: 1
+  _timeToRecharge: 1.8
+  _procAudio: {fileID: 11400000, guid: ba094f23c4bc3fa48b41bea0687e70c9, type: 2}
+  _procEffectPrefab: {fileID: 1743301284569550, guid: ecf0d56ce69cbcb4c94ef8562794caf7,
+    type: 3}
+  _blowback: 1.2
+  _physicalPrefab: {fileID: 548711875617934781, guid: ad3ae7f1d79e5e64785b5e5eafc6e1ee,
+    type: 3}
+  _mountPoint: 1
+  _projectileClass: 22
+  _spread: 0.05

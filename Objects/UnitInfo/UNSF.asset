@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84b3caa82211e92489b3e2e8c116d5fe, type: 3}
+  m_Name: UNSF
+  m_EditorClassIdentifier: 
+  Pawns:
+  - {fileID: 11400000, guid: 0c30c992dcb5e7f42a18a9b05e5b9119, type: 2}
+  - {fileID: 11400000, guid: 7cee65c64e2531642a9cea1edb930196, type: 2}
+  - {fileID: 11400000, guid: 1f06c23ca772f4e48b8e867001e432c4, type: 2}
+  - {fileID: 11400000, guid: 8953a0124d9806d459e18dc2afe882e3, type: 2}
+  - {fileID: 11400000, guid: 77f370440be7979449814c75c23eff52, type: 2}
+  - {fileID: 11400000, guid: 15c50a9b05446434294fd2e73dda4a73, type: 2}
+  - {fileID: 11400000, guid: 6d4e38b47bf1ec14ca7c60e2d2d01655, type: 2}

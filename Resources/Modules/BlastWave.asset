@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6649dd37979d1e64a9421f2e70b59d5a, type: 3}
+  m_Name: BlastWave
+  m_EditorClassIdentifier: 
+  _maxCharges: 1
+  _delayBetweenProcs: 2
+  _screenShake: 0.05
+  _spoolUpTime: 0
+  _spoolUpAudio: {fileID: 0}
+  _spoolUpEffectPrefab: {fileID: 0}
+  _forceActivateAfterSpool: 0
+  _spoolDownTime: 0
+  _spoolDownAudio: {fileID: 0}
+  _spoolDownEffectPrefab: {fileID: 0}
+  _modSlot1: {fileID: 0}
+  _modSlot2: {fileID: 0}
+  _modSlot3: {fileID: 0}
+  _moduleClass: 10
+  _preventRechargeInUse: 1
+  _timeToRecharge: 4
+  _procAudio: {fileID: 11400000, guid: c5b69c583d869a141981fc22502ab7ed, type: 2}
+  _procEffectPrefab: {fileID: 1738175644799202, guid: 88b044394cf55f9479407feabd332128,
+    type: 3}
+  _blowback: 2
+  _physicalPrefab: {fileID: 548711875617934781, guid: 23e2193e619417d4688f609fd2950728,
+    type: 3}
+  _mountPoint: 1
+  _projectileClass: 27
+  _spread: 0

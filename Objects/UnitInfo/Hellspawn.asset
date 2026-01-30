@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84b3caa82211e92489b3e2e8c116d5fe, type: 3}
+  m_Name: Hellspawn
+  m_EditorClassIdentifier: 
+  Pawns:
+  - {fileID: 11400000, guid: 6dd08cad0b4e23948bec431591ef6ace, type: 2}
+  - {fileID: 11400000, guid: 547727da8cf4e904cbc58aa3d8b84250, type: 2}
+  - {fileID: 11400000, guid: 88e8e93986554cf489935d60b1341573, type: 2}
+  - {fileID: 11400000, guid: cde1a29f85e437d4d956596f7e07f753, type: 2}
+  - {fileID: 11400000, guid: e202bc2fa058ab7489d1ce241795200d, type: 2}
+  - {fileID: 11400000, guid: f3bd524b86688d24e9ebf8b84cbfa8ee, type: 2}
+  - {fileID: 11400000, guid: fa879cc276b4a0a478c6e2e9627a715c, type: 2}

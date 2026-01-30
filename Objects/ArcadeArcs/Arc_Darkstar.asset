@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92144a26cdf7efd438849dbff7236814, type: 3}
+  m_Name: Arc_Darkstar
+  m_EditorClassIdentifier: 
+  Levels:
+  - _sceneName: Arcade_F1_0
+    _entryDir: 4
+    _exitDir: 1
+  - _sceneName: Arcade_F1_1
+    _entryDir: 1
+    _exitDir: 1
+  - _sceneName: Arcade_F1_2
+    _entryDir: 1
+    _exitDir: 4
+  - _sceneName: Arcade_F1_3
+    _entryDir: 4
+    _exitDir: 4
+  - _sceneName: Arcade_F1_4
+    _entryDir: 4
+    _exitDir: 1
+  - _sceneName: Arcade_F1_5
+    _entryDir: 1
+    _exitDir: 4
+  - _sceneName: Arcade_F1_6
+    _entryDir: 4
+    _exitDir: 4
+  - _sceneName: Arcade_F1_7
+    _entryDir: 4
+    _exitDir: 1
+  - _sceneName: Arcade_F1_8
+    _entryDir: 1
+    _exitDir: 4
+  - _sceneName: Arcade_F1_9
+    _entryDir: 4
+    _exitDir: 4
+  - _sceneName: Arcade_F1_10
+    _entryDir: 4
+    _exitDir: 1
+  - _sceneName: Arcade_F1_11
+    _entryDir: 1
+    _exitDir: 1
+  TierOneGroups:
+  - Enemies: 14000000
+  - Enemies: 1400000016000000
+  - Enemies: 140000001400000016000000
+  TierTwoGroups:
+  - Enemies: 140000000d000000
+  - Enemies: 0d0000000d000000
+  - Enemies: 0e000000
+  - Enemies: 0d00000010000000
+  - Enemies: 1200000015000000
+  - Enemies: 17000000160000000d000000
+  TierThreeGroups:
+  - Enemies: 0d0000000d0000000f000000
+  - Enemies: 1000000010000000
+  - Enemies: 14000000150000000d000000
+  - Enemies: 170000000d0000001000000015000000
+  - Enemies: 0f0000000e0000000d000000
+  - Enemies: 170000000f00000010000000
+  - Enemies: 120000000e00000014000000
+  TierFourGroups:
+  - Enemies: 110000000f00000014000000
+  - Enemies: 0f0000000f0000000d000000
+  - Enemies: 0e0000000e00000015000000
+  - Enemies: 1400000015000000170000000d00000010000000
+  - Enemies: 0d0000000d0000001600000013000000
+  - Enemies: 110000001200000013000000
+  - Enemies: 130000000f0000001000000015000000
+  - Enemies: 170000000f000000110000001100000015000000
